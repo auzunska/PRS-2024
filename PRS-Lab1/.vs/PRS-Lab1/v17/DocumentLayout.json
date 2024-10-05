@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE372A8-9623-4DA8-9AC8-285EAC06F2B6}|PRS-Lab1\\PRS-Lab1.csproj|d:\\tu_sem_7\\prs\\prs-2024\\prs-lab1\\prs-lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DE372A8-9623-4DA8-9AC8-285EAC06F2B6}|PRS-Lab1\\PRS-Lab1.csproj|solutionrelative:prs-lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab1\\PRS-Lab1\\Program.cs",
+              "RelativeDocumentMoniker": "PRS-Lab1\\Program.cs",
+              "ToolTip": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab1\\PRS-Lab1\\Program.cs",
+              "RelativeToolTip": "PRS-Lab1\\Program.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:03:04.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

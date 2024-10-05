@@ -1,0 +1,14 @@
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\bin\Debug\net8.0\PRS-Lab1.exe
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\bin\Debug\net8.0\PRS-Lab1.deps.json
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\bin\Debug\net8.0\PRS-Lab1.runtimeconfig.json
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\bin\Debug\net8.0\PRS-Lab1.dll
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\bin\Debug\net8.0\PRS-Lab1.pdb
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\obj\Debug\net8.0\PRS-Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\obj\Debug\net8.0\PRS-Lab1.AssemblyInfoInputs.cache
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\obj\Debug\net8.0\PRS-Lab1.AssemblyInfo.cs
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\obj\Debug\net8.0\PRS-Lab1.csproj.CoreCompileInputs.cache
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\obj\Debug\net8.0\PRS-Lab1.dll
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\obj\Debug\net8.0\refint\PRS-Lab1.dll
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\obj\Debug\net8.0\PRS-Lab1.pdb
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\obj\Debug\net8.0\PRS-Lab1.genruntimeconfig.cache
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\obj\Debug\net8.0\ref\PRS-Lab1.dll
