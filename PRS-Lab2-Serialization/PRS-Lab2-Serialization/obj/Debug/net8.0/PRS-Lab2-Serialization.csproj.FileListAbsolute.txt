@@ -1,0 +1,15 @@
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab2-Serialization\PRS-Lab2-Serialization\bin\Debug\net8.0\PRS-Lab2-Serialization.exe
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab2-Serialization\PRS-Lab2-Serialization\bin\Debug\net8.0\PRS-Lab2-Serialization.deps.json
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab2-Serialization\PRS-Lab2-Serialization\bin\Debug\net8.0\PRS-Lab2-Serialization.runtimeconfig.json
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab2-Serialization\PRS-Lab2-Serialization\bin\Debug\net8.0\PRS-Lab2-Serialization.dll
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab2-Serialization\PRS-Lab2-Serialization\bin\Debug\net8.0\PRS-Lab2-Serialization.pdb
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab2-Serialization\PRS-Lab2-Serialization\obj\Debug\net8.0\PRS-Lab2-Serialization.GeneratedMSBuildEditorConfig.editorconfig
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab2-Serialization\PRS-Lab2-Serialization\obj\Debug\net8.0\PRS-Lab2-Serialization.AssemblyInfoInputs.cache
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab2-Serialization\PRS-Lab2-Serialization\obj\Debug\net8.0\PRS-Lab2-Serialization.AssemblyInfo.cs
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab2-Serialization\PRS-Lab2-Serialization\obj\Debug\net8.0\PRS-Lab2-Serialization.csproj.CoreCompileInputs.cache
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab2-Serialization\PRS-Lab2-Serialization\obj\Debug\net8.0\PRS-Lab2-Serialization.sourcelink.json
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab2-Serialization\PRS-Lab2-Serialization\obj\Debug\net8.0\PRS-Lab2-Serialization.dll
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab2-Serialization\PRS-Lab2-Serialization\obj\Debug\net8.0\refint\PRS-Lab2-Serialization.dll
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab2-Serialization\PRS-Lab2-Serialization\obj\Debug\net8.0\PRS-Lab2-Serialization.pdb
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab2-Serialization\PRS-Lab2-Serialization\obj\Debug\net8.0\PRS-Lab2-Serialization.genruntimeconfig.cache
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab2-Serialization\PRS-Lab2-Serialization\obj\Debug\net8.0\ref\PRS-Lab2-Serialization.dll
