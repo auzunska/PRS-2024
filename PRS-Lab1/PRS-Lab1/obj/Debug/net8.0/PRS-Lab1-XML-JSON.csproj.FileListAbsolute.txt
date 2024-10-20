@@ -1,0 +1,15 @@
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\bin\Debug\net8.0\PRS-Lab1-XML-JSON.exe
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\bin\Debug\net8.0\PRS-Lab1-XML-JSON.deps.json
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\bin\Debug\net8.0\PRS-Lab1-XML-JSON.runtimeconfig.json
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\bin\Debug\net8.0\PRS-Lab1-XML-JSON.dll
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\bin\Debug\net8.0\PRS-Lab1-XML-JSON.pdb
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\obj\Debug\net8.0\PRS-Lab1-XML-JSON.GeneratedMSBuildEditorConfig.editorconfig
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\obj\Debug\net8.0\PRS-Lab1-XML-JSON.AssemblyInfoInputs.cache
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\obj\Debug\net8.0\PRS-Lab1-XML-JSON.AssemblyInfo.cs
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\obj\Debug\net8.0\PRS-Lab1-XML-JSON.csproj.CoreCompileInputs.cache
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\obj\Debug\net8.0\PRS-Lab1-XML-JSON.sourcelink.json
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\obj\Debug\net8.0\PRS-Lab1-XML-JSON.dll
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\obj\Debug\net8.0\refint\PRS-Lab1-XML-JSON.dll
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\obj\Debug\net8.0\PRS-Lab1-XML-JSON.pdb
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\obj\Debug\net8.0\PRS-Lab1-XML-JSON.genruntimeconfig.cache
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab1\PRS-Lab1\obj\Debug\net8.0\ref\PRS-Lab1-XML-JSON.dll

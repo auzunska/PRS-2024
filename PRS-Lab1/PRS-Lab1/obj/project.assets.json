@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab1\\PRS-Lab1\\PRS-Lab1.csproj",
-      "projectName": "PRS-Lab1",
-      "projectPath": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab1\\PRS-Lab1\\PRS-Lab1.csproj",
+      "projectUniqueName": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab1\\PRS-Lab1\\PRS-Lab1-XML-JSON.csproj",
+      "projectName": "PRS-Lab1-XML-JSON",
+      "projectPath": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab1\\PRS-Lab1\\PRS-Lab1-XML-JSON.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
       "outputPath": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab1\\PRS-Lab1\\obj\\",
       "projectStyle": "PackageReference",

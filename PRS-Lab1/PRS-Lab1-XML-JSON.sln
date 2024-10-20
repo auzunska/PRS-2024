@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRS-Lab1", "PRS-Lab1\PRS-Lab1.csproj", "{4DE372A8-9623-4DA8-9AC8-285EAC06F2B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PRS-Lab1-XML-JSON", "PRS-Lab1\PRS-Lab1-XML-JSON.csproj", "{4DE372A8-9623-4DA8-9AC8-285EAC06F2B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
