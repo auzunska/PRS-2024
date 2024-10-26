@@ -12,11 +12,19 @@ namespace PRS_Lab3_Server
     public interface IService1
     {
         [OperationContract]
-        [WebInvoke(UriTemplate = "Addit?num1={num1}&num2={num2}",
-            Method = "GET",
-            BodyStyle = WebMessageBodyStyle.WrappedRequest,
-            ResponseFormat = WebMessageFormat.Xml
-            )]
-        string AddIt(int num1, int num2);
+        [WebInvoke(UriTemplate = "getStudents", Method = "GET", ResponseFormat = WebMessageFormat.Xml)]
+        string GetStudents();
+
+        [OperationContract]
+        [WebInvoke(UriTemplate = "addStudent?id={id}&name={name}&age={age}&grade={grade}", Method = "POST", ResponseFormat = WebMessageFormat.Xml)]
+        string AddStudent(string id, string name, int age, int grade);
+
+        [OperationContract]
+        [WebInvoke(UriTemplate = "updateStudent?id={id}&name={name}&age={age}&grade={grade}", Method = "POST", ResponseFormat = WebMessageFormat.Xml)]
+        string UpdateStudent(string id, string name, int age, int grade);
+
+        [OperationContract]
+        [WebInvoke(UriTemplate = "deleteStudent?id={id}", Method = "DELETE", ResponseFormat = WebMessageFormat.Xml)]
+        string DeleteStudent(string id);
     }
 }
