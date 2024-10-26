@@ -1,0 +1,7 @@
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab3-REST\PRS-Lab3\PRS_Lab3\PRS_Lab3-Server\bin\PRS_Lab3-Server.dll.config
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab3-REST\PRS-Lab3\PRS_Lab3\PRS_Lab3-Server\bin\PRS_Lab3-Server.dll
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab3-REST\PRS-Lab3\PRS_Lab3\PRS_Lab3-Server\bin\PRS_Lab3-Server.pdb
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab3-REST\PRS-Lab3\PRS_Lab3\PRS_Lab3-Server\obj\Debug\PRS_Lab3-Server.csproj.AssemblyReference.cache
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab3-REST\PRS-Lab3\PRS_Lab3\PRS_Lab3-Server\obj\Debug\PRS_Lab3-Server.csproj.CoreCompileInputs.cache
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab3-REST\PRS-Lab3\PRS_Lab3\PRS_Lab3-Server\obj\Debug\PRS_Lab3-Server.dll
+D:\TU_Sem_7\PRS\PRS-2024\PRS-Lab3-REST\PRS-Lab3\PRS_Lab3\PRS_Lab3-Server\obj\Debug\PRS_Lab3-Server.pdb
