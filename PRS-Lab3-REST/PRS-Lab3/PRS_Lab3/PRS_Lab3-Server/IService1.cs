@@ -12,19 +12,32 @@ namespace PRS_Lab3_Server
     public interface IService1
     {
         [OperationContract]
-        [WebInvoke(UriTemplate = "getStudents", Method = "GET", ResponseFormat = WebMessageFormat.Xml)]
-        string GetStudents();
+        [WebInvoke(UriTemplate = "Addit?num1={num1}&num2={num2}",
+            Method = "GET",
+            BodyStyle = WebMessageBodyStyle.WrappedRequest,
+            ResponseFormat = WebMessageFormat.Xml
+            )]
+        string AddIt(int num1, int num2);
 
         [OperationContract]
-        [WebInvoke(UriTemplate = "addStudent?id={id}&name={name}&age={age}&grade={grade}", Method = "POST", ResponseFormat = WebMessageFormat.Xml)]
-        string AddStudent(string id, string name, int age, int grade);
+        [WebInvoke(UriTemplate = "getResource", 
+            Method = "GET", 
+            BodyStyle = WebMessageBodyStyle.WrappedRequest, 
+            ResponseFormat = WebMessageFormat.Xml)]
+        string getResource();
 
         [OperationContract]
-        [WebInvoke(UriTemplate = "updateStudent?id={id}&name={name}&age={age}&grade={grade}", Method = "POST", ResponseFormat = WebMessageFormat.Xml)]
-        string UpdateStudent(string id, string name, int age, int grade);
+        [WebInvoke(UriTemplate = "addResource?id={id}&value={value}", 
+            Method = "POST", 
+            BodyStyle = WebMessageBodyStyle.WrappedRequest, 
+            ResponseFormat = WebMessageFormat.Xml)]
+        string addResource(string id, string value);
 
         [OperationContract]
-        [WebInvoke(UriTemplate = "deleteStudent?id={id}", Method = "DELETE", ResponseFormat = WebMessageFormat.Xml)]
-        string DeleteStudent(string id);
+        [WebInvoke(UriTemplate = "updateResource?id={id}&value={value}&isdel={isdel}", 
+            Method = "POST", 
+            BodyStyle = WebMessageBodyStyle.WrappedRequest, 
+            ResponseFormat = WebMessageFormat.Xml)]
+        string updateResource(string id, string value, bool isdel = false);
     }
 }

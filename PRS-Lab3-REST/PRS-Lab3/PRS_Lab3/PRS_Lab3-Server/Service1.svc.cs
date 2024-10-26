@@ -12,60 +12,55 @@ namespace PRS_Lab3_Server
     public class Service1 : IService1
     {
         private readonly string xmlFilePath = "D:/TU_Sem_7/PRS/PRS-2024/PRS-Lab3-REST/PRS-Lab3/data.xml";
-        public string GetStudents()
+        public string AddIt(int num1, int num2)
+        {
+            return Convert.ToString(num1 + num2);
+        }
+
+        public string getResource()
         {
             XmlDocument xmlDoc = new XmlDocument();
             xmlDoc.Load(xmlFilePath);
             return xmlDoc.InnerXml;
         }
 
-        public string AddStudent(string id, string name, int age, int grade)
+        public string addResource(string id, string value)
         {
             XmlDocument xmlDoc = new XmlDocument();
             xmlDoc.Load(xmlFilePath);
 
             XmlNode root = xmlDoc.DocumentElement;
-            XmlElement studentElement = xmlDoc.CreateElement("student");
-            studentElement.SetAttribute("id", id);
-            studentElement.SetAttribute("name", name);
-            studentElement.SetAttribute("age", age.ToString());
-            studentElement.SetAttribute("grade", grade.ToString());
-            root.AppendChild(studentElement);
+            XmlElement newElement = xmlDoc.CreateElement("item");
+            newElement.SetAttribute("id", id);
+            newElement.InnerText = value;
+            root.AppendChild(newElement);
 
             xmlDoc.Save(xmlFilePath);
-            return "Student added successfully";
+            return "Resource added successfully";
         }
 
-        public string UpdateStudent(string id, string name, int age, int grade)
+        public string updateResource(string id, string value, bool isdel = false)
         {
             XmlDocument xmlDoc = new XmlDocument();
             xmlDoc.Load(xmlFilePath);
 
-            XmlNode studentNode = xmlDoc.SelectSingleNode($"/students/student[@id='{id}']");
-            if (studentNode != null)
+            XmlNode node = xmlDoc.SelectSingleNode($"/root/item[@id='{id}']");
+            if (node != null)
             {
-                studentNode.Attributes["name"].Value = name;
-                studentNode.Attributes["age"].Value = age.ToString();
-                studentNode.Attributes["grade"].Value = grade.ToString();
-                xmlDoc.Save(xmlFilePath);
-                return "Student updated successfully";
+                if (isdel)
+                {
+                    node.ParentNode.RemoveChild(node);
+                    xmlDoc.Save(xmlFilePath);
+                    return "Resource deleted successfully";
+                }
+                else
+                {
+                    node.InnerText = value;
+                    xmlDoc.Save(xmlFilePath);
+                    return "Resource updated successfully";
+                }
             }
-            return "Student not found";
-        }
-
-        public string DeleteStudent(string id)
-        {
-            XmlDocument xmlDoc = new XmlDocument();
-            xmlDoc.Load(xmlFilePath);
-
-            XmlNode studentNode = xmlDoc.SelectSingleNode($"/students/student[@id='{id}']");
-            if (studentNode != null)
-            {
-                studentNode.ParentNode.RemoveChild(studentNode);
-                xmlDoc.Save(xmlFilePath);
-                return "Student deleted successfully";
-            }
-            return "Student not found";
+            return "Resource not found";
         }
     }
 }

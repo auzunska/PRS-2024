@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRS_Lab3-Server", "PRS_Lab3-Server\PRS_Lab3-Server.csproj", "{674B7854-D178-44EA-9D3F-5B9351C9815F}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PRS-Lab3-Client", "PRS-Lab3-Client\PRS-Lab3-Client.csproj", "{BAF6FBFC-06C1-413D-B487-CB1CC0A9A419}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{674B7854-D178-44EA-9D3F-5B9351C9815F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{674B7854-D178-44EA-9D3F-5B9351C9815F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{674B7854-D178-44EA-9D3F-5B9351C9815F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAF6FBFC-06C1-413D-B487-CB1CC0A9A419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF6FBFC-06C1-413D-B487-CB1CC0A9A419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF6FBFC-06C1-413D-B487-CB1CC0A9A419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF6FBFC-06C1-413D-B487-CB1CC0A9A419}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
