@@ -1,0 +1,41 @@
+﻿<Window x:Class="PRS_Lab4_SOAP_UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PRS_Lab4_SOAP_UI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="10">
+        <StackPanel>
+            <!-- Add Section -->
+            <TextBlock FontWeight="Bold" FontSize="16" Text="Add:"/>
+            <StackPanel Orientation="Horizontal">
+                <TextBox Name="txtAddNumber1" Width="50" Margin="0,5" />
+                <TextBox Name="txtAddNumber2" Width="50" Margin="0,5" />
+                <Button Name="btnAdd" Content="Add" Click="btnAdd_Click" Margin="5,0"/>
+            </StackPanel>
+            <TextBlock Name="lblAddResult" Text="Result will be shown here" Margin="0,5"/>
+
+            <Separator Margin="0,15"/>
+
+            <!-- Celsius to Fahrenheit Section -->
+            <TextBlock FontWeight="Bold" FontSize="16" Text="Celsius to Fahrenheit:"/>
+            <StackPanel Orientation="Horizontal">
+                <TextBox Name="txtCelsius" Width="50" Margin="0,5" />
+                <Button Name="btnCelsiusToFahrenheit" Content="Convert" Click="btnCelsiusToFahrenheit_Click" Margin="5,0"/>
+            </StackPanel>
+            <TextBlock Name="lblCelsiusToFahrenheitResult" Text="Result will be shown here" Margin="0,5"/>
+
+            <Separator Margin="0,15"/>
+
+            <!-- Fahrenheit to Celsius Section -->
+            <TextBlock FontWeight="Bold" FontSize="16" Text="Fahrenheit to Celsius:"/>
+            <StackPanel Orientation="Horizontal">
+                <TextBox Name="txtFahrenheit" Width="50" Margin="0,5"/>
+                <Button Name="btnFahrenheitToCelsius" Content="Convert" Click="btnFahrenheitToCelsius_Click" Margin="5,0"/>
+            </StackPanel>
+            <TextBlock Name="lblFahrenheitToCelsiusResult" Text="Result will be shown here" Margin="0,5"/>
+        </StackPanel>
+    </Grid>
+</Window>
