@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{895BB0F5-E71B-4B3E-9BC5-446123B4B5A8}|PRS-Lab4-SOAP-UI\\PRS-Lab4-SOAP-UI.csproj|d:\\tu_sem_7\\prs\\prs-2024\\prs-lab4 - soap\\prs-lab4-soap-ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{895BB0F5-E71B-4B3E-9BC5-446123B4B5A8}|PRS-Lab4-SOAP-UI\\PRS-Lab4-SOAP-UI.csproj|solutionrelative:prs-lab4-soap-ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{895BB0F5-E71B-4B3E-9BC5-446123B4B5A8}|PRS-Lab4-SOAP-UI\\PRS-Lab4-SOAP-UI.csproj|d:\\tu_sem_7\\prs\\prs-2024\\prs-lab4 - soap\\prs-lab4-soap-ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{895BB0F5-E71B-4B3E-9BC5-446123B4B5A8}|PRS-Lab4-SOAP-UI\\PRS-Lab4-SOAP-UI.csproj|solutionrelative:prs-lab4-soap-ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895BB0F5-E71B-4B3E-9BC5-446123B4B5A8}|PRS-Lab4-SOAP-UI\\PRS-Lab4-SOAP-UI.csproj|d:\\tu_sem_7\\prs\\prs-2024\\prs-lab4 - soap\\prs-lab4-soap-ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{895BB0F5-E71B-4B3E-9BC5-446123B4B5A8}|PRS-Lab4-SOAP-UI\\PRS-Lab4-SOAP-UI.csproj|solutionrelative:prs-lab4-soap-ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{895BB0F5-E71B-4B3E-9BC5-446123B4B5A8}|PRS-Lab4-SOAP-UI\\PRS-Lab4-SOAP-UI.csproj|d:\\tu_sem_7\\prs\\prs-2024\\prs-lab4 - soap\\prs-lab4-soap-ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -109,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\PRS-Lab4-SOAP-UI\\MainWindow.xaml",
               "RelativeDocumentMoniker": "PRS-Lab4-SOAP-UI\\MainWindow.xaml",
@@ -121,13 +121,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\PRS-Lab4-SOAP-UI\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "PRS-Lab4-SOAP-UI\\MainWindow.xaml.cs",
               "ToolTip": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\PRS-Lab4-SOAP-UI\\MainWindow.xaml.cs",
               "RelativeToolTip": "PRS-Lab4-SOAP-UI\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAABAAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAB8AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T07:17:08.071Z",
               "EditorCaption": ""

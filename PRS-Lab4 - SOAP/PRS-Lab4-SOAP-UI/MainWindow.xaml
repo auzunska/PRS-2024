@@ -11,7 +11,9 @@
             <!-- Add Section -->
             <TextBlock FontWeight="Bold" FontSize="16" Text="Add:"/>
             <StackPanel Orientation="Horizontal">
+                <Label Content="Num 1"/>
                 <TextBox Name="txtAddNumber1" Width="50" Margin="0,5" />
+                <Label Content="Num 2"/>
                 <TextBox Name="txtAddNumber2" Width="50" Margin="0,5" />
                 <Button Name="btnAdd" Content="Add" Click="btnAdd_Click" Margin="5,0"/>
             </StackPanel>
@@ -22,6 +24,7 @@
             <!-- Celsius to Fahrenheit Section -->
             <TextBlock FontWeight="Bold" FontSize="16" Text="Celsius to Fahrenheit:"/>
             <StackPanel Orientation="Horizontal">
+                <Label Content="Celsius"/>
                 <TextBox Name="txtCelsius" Width="50" Margin="0,5" />
                 <Button Name="btnCelsiusToFahrenheit" Content="Convert" Click="btnCelsiusToFahrenheit_Click" Margin="5,0"/>
             </StackPanel>
@@ -32,6 +35,7 @@
             <!-- Fahrenheit to Celsius Section -->
             <TextBlock FontWeight="Bold" FontSize="16" Text="Fahrenheit to Celsius:"/>
             <StackPanel Orientation="Horizontal">
+                <Label Content="Fahrenheit: "/>
                 <TextBox Name="txtFahrenheit" Width="50" Margin="0,5"/>
                 <Button Name="btnFahrenheitToCelsius" Content="Convert" Click="btnFahrenheitToCelsius_Click" Margin="5,0"/>
             </StackPanel>

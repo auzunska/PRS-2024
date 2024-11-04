@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{895BB0F5-E71B-4B3E-9BC5-446123B4B5A8}|PRS-Lab4-SOAP-UI\\PRS-Lab4-SOAP-UI.csproj|d:\\tu_sem_7\\prs\\prs-2024\\prs-lab4 - soap\\prs-lab4-soap-ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{895BB0F5-E71B-4B3E-9BC5-446123B4B5A8}|PRS-Lab4-SOAP-UI\\PRS-Lab4-SOAP-UI.csproj|solutionrelative:prs-lab4-soap-ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{895BB0F5-E71B-4B3E-9BC5-446123B4B5A8}|PRS-Lab4-SOAP-UI\\PRS-Lab4-SOAP-UI.csproj|d:\\tu_sem_7\\prs\\prs-2024\\prs-lab4 - soap\\prs-lab4-soap-ui\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{895BB0F5-E71B-4B3E-9BC5-446123B4B5A8}|PRS-Lab4-SOAP-UI\\PRS-Lab4-SOAP-UI.csproj|solutionrelative:prs-lab4-soap-ui\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{895BB0F5-E71B-4B3E-9BC5-446123B4B5A8}|PRS-Lab4-SOAP-UI\\PRS-Lab4-SOAP-UI.csproj|d:\\tu_sem_7\\prs\\prs-2024\\prs-lab4 - soap\\prs-lab4-soap-ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{895BB0F5-E71B-4B3E-9BC5-446123B4B5A8}|PRS-Lab4-SOAP-UI\\PRS-Lab4-SOAP-UI.csproj|solutionrelative:prs-lab4-soap-ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{364968D9-255D-41DD-A750-CD768ECA4E23}|D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\PRS-Lab4 - SOAP|d:\\tu_sem_7\\prs\\prs-2024\\prs-lab4 - soap\\prs-lab4 - soap\\app_code\\webservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{364968D9-255D-41DD-A750-CD768ECA4E23}|D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\PRS-Lab4 - SOAP|solutionrelative:prs-lab4 - soap\\app_code\\webservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{364968D9-255D-41DD-A750-CD768ECA4E23}|D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\PRS-Lab4 - SOAP|d:\\tu_sem_7\\prs\\prs-2024\\prs-lab4 - soap\\prs-lab4 - soap\\webservice.asmx||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}",
-      "RelativeMoniker": "D:0:0:{364968D9-255D-41DD-A750-CD768ECA4E23}|D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\PRS-Lab4 - SOAP|solutionrelative:prs-lab4 - soap\\webservice.asmx||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{895BB0F5-E71B-4B3E-9BC5-446123B4B5A8}|PRS-Lab4-SOAP-UI\\PRS-Lab4-SOAP-UI.csproj|d:\\tu_sem_7\\prs\\prs-2024\\prs-lab4 - soap\\prs-lab4-soap-ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{895BB0F5-E71B-4B3E-9BC5-446123B4B5A8}|PRS-Lab4-SOAP-UI\\PRS-Lab4-SOAP-UI.csproj|solutionrelative:prs-lab4-soap-ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{895BB0F5-E71B-4B3E-9BC5-446123B4B5A8}|PRS-Lab4-SOAP-UI\\PRS-Lab4-SOAP-UI.csproj|d:\\tu_sem_7\\prs\\prs-2024\\prs-lab4 - soap\\prs-lab4-soap-ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895BB0F5-E71B-4B3E-9BC5-446123B4B5A8}|PRS-Lab4-SOAP-UI\\PRS-Lab4-SOAP-UI.csproj|solutionrelative:prs-lab4-soap-ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{895BB0F5-E71B-4B3E-9BC5-446123B4B5A8}|PRS-Lab4-SOAP-UI\\PRS-Lab4-SOAP-UI.csproj|d:\\tu_sem_7\\prs\\prs-2024\\prs-lab4 - soap\\prs-lab4-soap-ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{895BB0F5-E71B-4B3E-9BC5-446123B4B5A8}|PRS-Lab4-SOAP-UI\\PRS-Lab4-SOAP-UI.csproj|solutionrelative:prs-lab4-soap-ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{364968D9-255D-41DD-A750-CD768ECA4E23}|D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\PRS-Lab4 - SOAP|d:\\tu_sem_7\\prs\\prs-2024\\prs-lab4 - soap\\prs-lab4 - soap\\app_code\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{364968D9-255D-41DD-A750-CD768ECA4E23}|D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\PRS-Lab4 - SOAP|solutionrelative:prs-lab4 - soap\\app_code\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{895BB0F5-E71B-4B3E-9BC5-446123B4B5A8}|PRS-Lab4-SOAP-UI\\PRS-Lab4-SOAP-UI.csproj|d:\\tu_sem_7\\prs\\prs-2024\\prs-lab4 - soap\\prs-lab4-soap-ui\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895BB0F5-E71B-4B3E-9BC5-446123B4B5A8}|PRS-Lab4-SOAP-UI\\PRS-Lab4-SOAP-UI.csproj|solutionrelative:prs-lab4-soap-ui\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364968D9-255D-41DD-A750-CD768ECA4E23}|D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\PRS-Lab4 - SOAP|d:\\tu_sem_7\\prs\\prs-2024\\prs-lab4 - soap\\prs-lab4 - soap\\webservice.asmx||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}",
+      "RelativeMoniker": "D:0:0:{364968D9-255D-41DD-A750-CD768ECA4E23}|D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\PRS-Lab4 - SOAP|solutionrelative:prs-lab4 - soap\\webservice.asmx||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7B81048-28C2-4A85-88C4-21FB76986BBF}|Solution Items{E7B81048-28C2-4A85-88C4-21FB76986BBF}|D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\HTMLPage2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E7B81048-28C2-4A85-88C4-21FB76986BBF}|Solution Items{E7B81048-28C2-4A85-88C4-21FB76986BBF}|solutionrelative:HTMLPage2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364968D9-255D-41DD-A750-CD768ECA4E23}|D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\PRS-Lab4 - SOAP|d:\\tu_sem_7\\prs\\prs-2024\\prs-lab4 - soap\\prs-lab4 - soap\\app_code\\webservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364968D9-255D-41DD-A750-CD768ECA4E23}|D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\PRS-Lab4 - SOAP|solutionrelative:prs-lab4 - soap\\app_code\\webservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895BB0F5-E71B-4B3E-9BC5-446123B4B5A8}|PRS-Lab4-SOAP-UI\\PRS-Lab4-SOAP-UI.csproj|d:\\tu_sem_7\\prs\\prs-2024\\prs-lab4 - soap\\prs-lab4-soap-ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{895BB0F5-E71B-4B3E-9BC5-446123B4B5A8}|PRS-Lab4-SOAP-UI\\PRS-Lab4-SOAP-UI.csproj|solutionrelative:prs-lab4-soap-ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364968D9-255D-41DD-A750-CD768ECA4E23}|D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\PRS-Lab4 - SOAP|d:\\tu_sem_7\\prs\\prs-2024\\prs-lab4 - soap\\prs-lab4 - soap\\app_code\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364968D9-255D-41DD-A750-CD768ECA4E23}|D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\PRS-Lab4 - SOAP|solutionrelative:prs-lab4 - soap\\app_code\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7B81048-28C2-4A85-88C4-21FB76986BBF}|Solution Items{E7B81048-28C2-4A85-88C4-21FB76986BBF}|D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\HTMLPage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -54,17 +54,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Reference.cs",
               "DocumentMoniker": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\PRS-Lab4-SOAP-UI\\Connected Services\\ServiceReference1\\Reference.cs",
               "RelativeDocumentMoniker": "PRS-Lab4-SOAP-UI\\Connected Services\\ServiceReference1\\Reference.cs",
               "ToolTip": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\PRS-Lab4-SOAP-UI\\Connected Services\\ServiceReference1\\Reference.cs",
               "RelativeToolTip": "PRS-Lab4-SOAP-UI\\Connected Services\\ServiceReference1\\Reference.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAAwIwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAwIYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T07:30:39.187Z",
               "EditorCaption": ""
@@ -84,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\PRS-Lab4-SOAP-UI\\App.xaml",
               "RelativeDocumentMoniker": "PRS-Lab4-SOAP-UI\\App.xaml",
@@ -96,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\PRS-Lab4-SOAP-UI\\App.xaml.cs",
               "RelativeDocumentMoniker": "PRS-Lab4-SOAP-UI\\App.xaml.cs",
@@ -109,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\PRS-Lab4-SOAP-UI\\MainWindow.xaml",
               "RelativeDocumentMoniker": "PRS-Lab4-SOAP-UI\\MainWindow.xaml",
@@ -121,20 +121,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\PRS-Lab4-SOAP-UI\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "PRS-Lab4-SOAP-UI\\MainWindow.xaml.cs",
               "ToolTip": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\PRS-Lab4-SOAP-UI\\MainWindow.xaml.cs",
               "RelativeToolTip": "PRS-Lab4-SOAP-UI\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T07:17:08.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "HTMLPage2.html",
               "DocumentMoniker": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\HTMLPage2.html",
               "RelativeDocumentMoniker": "HTMLPage2.html",
@@ -147,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "WebService.cs",
               "DocumentMoniker": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\PRS-Lab4 - SOAP\\App_Code\\WebService.cs",
               "RelativeDocumentMoniker": "PRS-Lab4 - SOAP\\App_Code\\WebService.cs",
@@ -173,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Service.cs",
               "DocumentMoniker": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab4 - SOAP\\PRS-Lab4 - SOAP\\App_Code\\Service.cs",
               "RelativeDocumentMoniker": "PRS-Lab4 - SOAP\\App_Code\\Service.cs",

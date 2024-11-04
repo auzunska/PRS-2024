@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PRS-Lab4-SOAP-UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a766e77011c76a12065484b4c7ade5bcc839c185")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d59c7792a3ee1ab430e9d1fa4720301b368805b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PRS-Lab4-SOAP-UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PRS-Lab4-SOAP-UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
