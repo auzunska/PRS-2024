@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PRS-Lab1-XML-JSON")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+101ca03a3d520eeecbcf1df697bede8bc248d19d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afbf0d72484983dfd7cd7ba49c8ebdc2a895eb91")]
 [assembly: System.Reflection.AssemblyProductAttribute("PRS-Lab1-XML-JSON")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PRS-Lab1-XML-JSON")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

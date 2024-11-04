@@ -36,20 +36,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab3-REST\\PRS-Lab3\\PRS_Lab3\\PRS-Lab3-Client\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "PRS-Lab3-Client\\MainWindow.xaml",
-              "ToolTip": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab3-REST\\PRS-Lab3\\PRS_Lab3\\PRS-Lab3-Client\\MainWindow.xaml",
-              "RelativeToolTip": "PRS-Lab3-Client\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-26T11:29:54.634Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -112,6 +100,18 @@
               "ViewState": "AgIAABAAAAAAAAAAAAAAACcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T10:05:12.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab3-REST\\PRS-Lab3\\PRS_Lab3\\PRS-Lab3-Client\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PRS-Lab3-Client\\MainWindow.xaml",
+              "ToolTip": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab3-REST\\PRS-Lab3\\PRS_Lab3\\PRS-Lab3-Client\\MainWindow.xaml",
+              "RelativeToolTip": "PRS-Lab3-Client\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T11:29:54.634Z",
               "EditorCaption": ""
             }
           ]

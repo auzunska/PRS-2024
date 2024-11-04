@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PRS-Lab2-Serialization")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0a4e7d1a5b20583e1e6136c8d027c53bef5f122")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afbf0d72484983dfd7cd7ba49c8ebdc2a895eb91")]
 [assembly: System.Reflection.AssemblyProductAttribute("PRS-Lab2-Serialization")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PRS-Lab2-Serialization")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

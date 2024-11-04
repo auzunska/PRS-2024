@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab3-REST\\PRS-Lab3\\PRS_Lab3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAF6FBFC-06C1-413D-B487-CB1CC0A9A419}|PRS-Lab3-Client\\PRS-Lab3-Client.csproj|d:\\tu_sem_7\\prs\\prs-2024\\prs-lab3-rest\\prs-lab3\\prs_lab3\\prs-lab3-client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAF6FBFC-06C1-413D-B487-CB1CC0A9A419}|PRS-Lab3-Client\\PRS-Lab3-Client.csproj|solutionrelative:prs-lab3-client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{674B7854-D178-44EA-9D3F-5B9351C9815F}|PRS_Lab3-Server\\PRS_Lab3-Server.csproj|d:\\tu_sem_7\\prs\\prs-2024\\prs-lab3-rest\\prs-lab3\\prs_lab3\\prs_lab3-server\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674B7854-D178-44EA-9D3F-5B9351C9815F}|PRS_Lab3-Server\\PRS_Lab3-Server.csproj|solutionrelative:prs_lab3-server\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{674B7854-D178-44EA-9D3F-5B9351C9815F}|PRS_Lab3-Server\\PRS_Lab3-Server.csproj|d:\\tu_sem_7\\prs\\prs-2024\\prs-lab3-rest\\prs-lab3\\prs_lab3\\prs_lab3-server\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{674B7854-D178-44EA-9D3F-5B9351C9815F}|PRS_Lab3-Server\\PRS_Lab3-Server.csproj|solutionrelative:prs_lab3-server\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAF6FBFC-06C1-413D-B487-CB1CC0A9A419}|PRS-Lab3-Client\\PRS-Lab3-Client.csproj|d:\\tu_sem_7\\prs\\prs-2024\\prs-lab3-rest\\prs-lab3\\prs_lab3\\prs-lab3-client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BAF6FBFC-06C1-413D-B487-CB1CC0A9A419}|PRS-Lab3-Client\\PRS-Lab3-Client.csproj|solutionrelative:prs-lab3-client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{BAF6FBFC-06C1-413D-B487-CB1CC0A9A419}|PRS-Lab3-Client\\PRS-Lab3-Client.csproj|d:\\tu_sem_7\\prs\\prs-2024\\prs-lab3-rest\\prs-lab3\\prs_lab3\\prs-lab3-client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF6FBFC-06C1-413D-B487-CB1CC0A9A419}|PRS-Lab3-Client\\PRS-Lab3-Client.csproj|solutionrelative:prs-lab3-client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{674B7854-D178-44EA-9D3F-5B9351C9815F}|PRS_Lab3-Server\\PRS_Lab3-Server.csproj|d:\\tu_sem_7\\prs\\prs-2024\\prs-lab3-rest\\prs-lab3\\prs_lab3\\prs_lab3-server\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{674B7854-D178-44EA-9D3F-5B9351C9815F}|PRS_Lab3-Server\\PRS_Lab3-Server.csproj|solutionrelative:prs_lab3-server\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAF6FBFC-06C1-413D-B487-CB1CC0A9A419}|PRS-Lab3-Client\\PRS-Lab3-Client.csproj|d:\\tu_sem_7\\prs\\prs-2024\\prs-lab3-rest\\prs-lab3\\prs_lab3\\prs-lab3-client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BAF6FBFC-06C1-413D-B487-CB1CC0A9A419}|PRS-Lab3-Client\\PRS-Lab3-Client.csproj|solutionrelative:prs-lab3-client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PRS_Lab3-Server||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
@@ -36,11 +36,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab3-REST\\PRS-Lab3\\PRS_Lab3\\PRS-Lab3-Client\\MainWindow.xaml",
               "RelativeDocumentMoniker": "PRS-Lab3-Client\\MainWindow.xaml",
@@ -52,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab3-REST\\PRS-Lab3\\PRS_Lab3\\PRS-Lab3-Client\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "PRS-Lab3-Client\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab3-REST\\PRS-Lab3\\PRS_Lab3\\PRS-Lab3-Client\\MainWindow.xaml.cs*",
-              "RelativeToolTip": "PRS-Lab3-Client\\MainWindow.xaml.cs*",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD0AAAAkAAAAAAAAAA==",
+              "ToolTip": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab3-REST\\PRS-Lab3\\PRS_Lab3\\PRS-Lab3-Client\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PRS-Lab3-Client\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABUAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T11:20:02.036Z",
               "EditorCaption": ""
@@ -103,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "IService1.cs",
               "DocumentMoniker": "D:\\TU_Sem_7\\PRS\\PRS-2024\\PRS-Lab3-REST\\PRS-Lab3\\PRS_Lab3\\PRS_Lab3-Server\\IService1.cs",
               "RelativeDocumentMoniker": "PRS_Lab3-Server\\IService1.cs",
